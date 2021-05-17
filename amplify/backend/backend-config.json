@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tripperc6e071c7": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
