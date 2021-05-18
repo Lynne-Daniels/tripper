@@ -10,7 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>We now have Auth!</h1>
         <h2>And maybe a CI/CD</h2>
-        <h6>Changed text thrice to prokoke rebuild</h6>
+        <h6>Changed text 4x to prokoke rebuild</h6>
       </header>
       <AmplifySignOut />
     </div>
